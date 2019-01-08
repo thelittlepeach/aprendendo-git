@@ -1,1 +1,4 @@
 git status
+
+
+adicionei o cu de quem esta lendo ^^
